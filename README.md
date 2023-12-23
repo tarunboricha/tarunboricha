@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarun</h1>
-<h3 align="center">A Tech Enthusiast And a Fresher in Software Domain</h3>
+<h3 align="center">A tech enthusiast and a fresher in the software domain.</h3>
 
 - 🌱 I’m currently learning **React, Express**
 
