@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate and detail-oriented fresher in software development specialized in BTech in ICT from Dhirubhai Ambani Institute, Gandhinagar. My journey in the world of technology has equipped me with a diverse skill set, ranging from C++ programming to web development using Angular.<br>Let's connect and collaborate on building innovative solutions that make a difference!
+I'm a passionate and detail-oriented fresher in software development specialized in BTech in Information and Communication Technology from Dhirubhai Ambani Institute, Gandhinagar. My journey in the world of technology has equipped me with a diverse skill set, ranging from C++ programming to web development using Angular.<br>Let's connect and collaborate on building innovative solutions that make a difference!
 
 
 ## 🌐 Socials:
